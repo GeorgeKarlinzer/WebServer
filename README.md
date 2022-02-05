@@ -7,5 +7,7 @@ This is a web server for **Hangman Game**
   * Handling DataBases (SQLite)
       * Basic EF
   * Web programming
+      * Handling TCP sockets
+      * JS, HTML, PHP
   * Building application for different OS
       * Windows, Ubuntu Server
