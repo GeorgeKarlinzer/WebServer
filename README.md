@@ -11,3 +11,4 @@ This is a web server for **Hangman Game**
       * JS, HTML, PHP
   * Building application for different OS
       * Windows, Ubuntu Server
+  * Logs handling
