@@ -1,0 +1,882 @@
+09.01.2022 18:39:20:	Server is running on 127.0.0.1:130
+09.01.2022 18:39:20:	Waiting for the players
+09.01.2022 21:18:16:	Server is running on 127.0.0.1:130
+09.01.2022 21:18:16:	Waiting for the players
+09.01.2022 21:19:08:	127.0.0.1:55760 connected
+09.01.2022 21:19:08:	127.0.0.1:55761 connected
+09.01.2022 21:19:10:	127.0.0.1:55760 logged in with login: 409165
+09.01.2022 21:19:10:	127.0.0.1:55762 connected
+09.01.2022 21:19:10:	127.0.0.1:55761 logged in with login: 409166
+09.01.2022 21:19:10:	127.0.0.1:55763 connected
+09.01.2022 21:19:10:	127.0.0.1:55762 logged in with login: 409167
+09.01.2022 21:19:10:	Waiting for the players
+09.01.2022 21:19:10:	127.0.0.1:55764 connected
+09.01.2022 21:19:10:	127.0.0.1:55763 logged in with login: 409168
+09.01.2022 21:19:10:	127.0.0.1:55765 connected
+09.01.2022 21:19:10:	Waiting for the players
+09.01.2022 21:19:10:	127.0.0.1:55766 connected
+09.01.2022 21:19:10:	127.0.0.1:55764 logged in with login: 409169
+09.01.2022 21:19:10:	127.0.0.1:55765 logged in with login: 409170
+09.01.2022 21:19:10:	127.0.0.1:55767 connected
+09.01.2022 21:19:10:	127.0.0.1:55766 logged in with login: 409171
+09.01.2022 21:19:11:	Waiting for the players
+09.01.2022 21:19:11:	127.0.0.1:55768 connected
+09.01.2022 21:19:11:	127.0.0.1:55767 logged in with login: 409172
+09.01.2022 21:19:11:	127.0.0.1:55769 connected
+09.01.2022 21:19:11:	127.0.0.1:55768 logged in with login: 409173
+09.01.2022 21:19:11:	Waiting for the players
+09.01.2022 21:19:11:	127.0.0.1:55769 logged in with login: 409174
+09.01.2022 21:19:11:	Waiting for the players
+09.01.2022 21:19:14:	Game starts. Word: nieprzechylany	Players: 409173, 409174	GameID: 189
+09.01.2022 21:19:14:	Game starts. Word: odpału	Players: 409167, 409168	GameID: 186
+09.01.2022 21:19:14:	Game starts. Word: zieleńszy	Players: 409165, 409166	GameID: 185
+09.01.2022 21:19:14:	Game starts. Word: prokuratorko	Players: 409169, 409170	GameID: 187
+09.01.2022 21:19:14:	Game starts. Word: zrulowałby	Players: 409171, 409172	GameID: 188
+09.01.2022 21:19:15:	409173 (game 189) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:15:	409167 (game 186) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:15:	409174 (game 189) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:15:	Game 189 has been finished
+09.01.2022 21:19:15:	409168 (game 186) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:15:	Game 186 has been finished
+09.01.2022 21:19:16:	409165 (game 185) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:16:	409166 (game 185) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:16:	Game 185 has been finished
+09.01.2022 21:19:16:	409169 (game 187) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:16:	409170 (game 187) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:16:	Game 187 has been finished
+09.01.2022 21:19:16:	409171 (game 188) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:16:	409172 (game 188) has been disconnected, because of 'LostGame'
+09.01.2022 21:19:16:	Game 188 has been finished
+09.01.2022 21:20:12:	Server is running on 127.0.0.1:130
+09.01.2022 21:20:12:	Waiting for the players
+09.01.2022 21:20:16:	127.0.0.1:55779 connected
+09.01.2022 21:20:16:	127.0.0.1:55780 connected
+09.01.2022 21:20:18:	127.0.0.1:55779 logged in with login: 409165
+09.01.2022 21:20:18:	127.0.0.1:55781 connected
+09.01.2022 21:20:18:	127.0.0.1:55780 logged in with login: 409166
+09.01.2022 21:20:18:	127.0.0.1:55782 connected
+09.01.2022 21:20:18:	127.0.0.1:55781 logged in with login: 409167
+09.01.2022 21:20:18:	Waiting for the players
+09.01.2022 21:20:18:	127.0.0.1:55783 connected
+09.01.2022 21:20:18:	127.0.0.1:55782 logged in with login: 409169
+09.01.2022 21:20:18:	127.0.0.1:55784 connected
+09.01.2022 21:20:18:	Waiting for the players
+09.01.2022 21:20:18:	127.0.0.1:55785 connected
+09.01.2022 21:20:18:	127.0.0.1:55783 logged in with login: 409168
+09.01.2022 21:20:18:	127.0.0.1:55784 logged in with login: 409170
+09.01.2022 21:20:18:	127.0.0.1:55786 connected
+09.01.2022 21:20:18:	127.0.0.1:55785 logged in with login: 409171
+09.01.2022 21:20:18:	Waiting for the players
+09.01.2022 21:20:18:	127.0.0.1:55787 connected
+09.01.2022 21:20:18:	127.0.0.1:55786 logged in with login: 409172
+09.01.2022 21:20:18:	127.0.0.1:55788 connected
+09.01.2022 21:20:18:	Waiting for the players
+09.01.2022 21:20:18:	127.0.0.1:55787 logged in with login: 409173
+09.01.2022 21:20:18:	127.0.0.1:55788 logged in with login: 409174
+09.01.2022 21:20:18:	Waiting for the players
+09.01.2022 21:20:18:	Game starts. Word: nieimmunogenną	Players: 409168, 409170	GameID: 192
+09.01.2022 21:20:18:	Game starts. Word: przekazywalnego	Players: 409167, 409169	GameID: 191
+09.01.2022 21:20:19:	Game starts. Word: poozdabiałabyś	Players: 409171, 409172	GameID: 193
+09.01.2022 21:20:19:	Game starts. Word: reformuje	Players: 409173, 409174	GameID: 194
+09.01.2022 21:20:19:	Game starts. Word: pozałatwianiu	Players: 409165, 409166	GameID: 190
+09.01.2022 21:20:25:	409169 (game 191) has been disconnected, because of 'WonGame'
+09.01.2022 21:20:26:	409167 (game 191) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:20:26:	Game 191 has been finished
+09.01.2022 21:20:27:	409171 (game 193) has been disconnected, because of 'WonGame'
+09.01.2022 21:20:28:	409172 (game 193) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:20:28:	Game 193 has been finished
+09.01.2022 21:20:29:	409170 (game 192) has been disconnected, because of 'WonGame'
+09.01.2022 21:20:30:	409168 (game 192) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:20:30:	Game 192 has been finished
+09.01.2022 21:20:30:	409173 (game 194) has been disconnected, because of 'WonGame'
+09.01.2022 21:20:31:	409165 (game 190) has been disconnected, because of 'WonGame'
+09.01.2022 21:20:31:	409166 (game 190) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:20:31:	Game 190 has been finished
+09.01.2022 21:20:31:	409174 (game 194) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:20:31:	Game 194 has been finished
+09.01.2022 21:22:30:	127.0.0.1:57400 connected
+09.01.2022 21:22:44:	127.0.0.1:57402 connected
+09.01.2022 21:22:44:	127.0.0.1:57400 logged in with login: 409165
+09.01.2022 21:22:44:	127.0.0.1:57402 logged in with login: 409166
+09.01.2022 21:22:44:	Waiting for the players
+09.01.2022 21:22:44:	Game starts. Word: nienaklepującej	Players: 409166, 409165	GameID: 195
+09.01.2022 21:22:46:	409165 (game 195) has been disconnected, because of 'WonGame'
+09.01.2022 21:22:46:	409166 (game 195) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:22:46:	Game 195 has been finished
+09.01.2022 21:23:35:	127.0.0.1:57719 connected
+09.01.2022 21:23:35:	127.0.0.1:57719 logged in with login: 409165
+09.01.2022 21:23:35:	127.0.0.1:57720 connected
+09.01.2022 21:23:35:	127.0.0.1:57720 logged in with login: 409166
+09.01.2022 21:23:35:	Waiting for the players
+09.01.2022 21:23:35:	Game starts. Word: szajr	Players: 409165, 409166	GameID: 196
+09.01.2022 21:23:40:	409165 (game 196) has been disconnected, because of 'WonGame'
+09.01.2022 21:23:40:	409166 (game 196) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:23:40:	Game 196 has been finished
+09.01.2022 21:23:44:	127.0.0.1:57777 connected
+09.01.2022 21:23:44:	127.0.0.1:57777 logged in with login: 409165
+09.01.2022 21:23:44:	127.0.0.1:57778 connected
+09.01.2022 21:23:44:	127.0.0.1:57778 logged in with login: 409166
+09.01.2022 21:23:44:	Waiting for the players
+09.01.2022 21:23:44:	Game starts. Word: niepogarbionych	Players: 409166, 409165	GameID: 197
+09.01.2022 21:23:48:	409165 (game 197) has been disconnected, because of 'WonGame'
+09.01.2022 21:23:48:	409166 (game 197) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:23:48:	Game 197 has been finished
+09.01.2022 21:24:54:	Server is running on 127.0.0.1:130
+09.01.2022 21:24:54:	Waiting for the players
+09.01.2022 21:25:02:	127.0.0.1:56589 connected
+09.01.2022 21:25:06:	127.0.0.1:56589 logged in with login: 409165
+09.01.2022 21:25:08:	127.0.0.1:54301 connected
+09.01.2022 21:25:15:	127.0.0.1:54301 logged in with login: 409166
+09.01.2022 21:25:15:	Waiting for the players
+09.01.2022 21:25:15:	Game starts. Word: niekrenelowany	Players: 409165, 409166	GameID: 198
+09.01.2022 21:25:18:	409166 (game 198) has been disconnected, because of 'WonGame'
+09.01.2022 21:25:18:	409165 (game 198) has been disconnected, because of 'WordGuessed'
+09.01.2022 21:25:18:	Game 198 has been finished
+09.01.2022 21:26:37:	127.0.0.1:54143 connected
+09.01.2022 21:26:38:	127.0.0.1:54143 logged in with login: 409165
+09.01.2022 21:26:41:	127.0.0.1:54144 connected
+09.01.2022 21:26:43:	127.0.0.1:54144 logged in with login: 409166
+09.01.2022 21:26:43:	Waiting for the players
+09.01.2022 21:26:43:	Game starts. Word: przewalajmyż	Players: 409165, 409166	GameID: 199
+09.01.2022 21:26:53:	409165 (game 199) has been disconnected, because of 'GuessTimedOut'
+09.01.2022 21:26:58:	409166 (game 199) has been disconnected, because of 'GuessTimedOut'
+09.01.2022 21:26:58:	Game 199 has been finished
+09.01.2022 21:30:18:	Server is running on 127.0.0.1:130
+09.01.2022 21:30:18:	Waiting for the players
+09.01.2022 21:30:21:	127.0.0.1:54264 connected
+09.01.2022 21:30:25:	127.0.0.1:54264 logged in with login: 409165
+09.01.2022 21:30:27:	127.0.0.1:54275 connected
+09.01.2022 21:30:29:	127.0.0.1:54275 logged in with login: 409166
+09.01.2022 21:30:29:	Waiting for the players
+09.01.2022 21:30:29:	Game starts. Word: niemyśleniu	Players: 409165, 409166	GameID: 200
+09.01.2022 21:33:58:	Server is running on 127.0.0.1:130
+09.01.2022 21:33:58:	Waiting for the players
+09.01.2022 21:34:04:	127.0.0.1:53870 connected
+09.01.2022 21:34:08:	127.0.0.1:53870 logged in with login: 409165
+09.01.2022 21:34:09:	127.0.0.1:53871 connected
+09.01.2022 21:34:10:	127.0.0.1:53871 logged in with login: 409166
+09.01.2022 21:34:10:	Waiting for the players
+09.01.2022 21:34:11:	Game starts. Word: fenylem	Players: 409165, 409166	GameID: 201
+09.01.2022 21:34:21:	409166 (game 201) has been disconnected, because of 'GuessTimedOut'
+09.01.2022 21:34:21:	409165 (game 201) has been disconnected, because of 'GuessTimedOut'
+09.01.2022 21:34:21:	Game 201 has been finished
+09.01.2022 21:41:43:	Server is running on 127.0.0.1:130
+09.01.2022 21:41:43:	Waiting for the players
+09.01.2022 21:41:48:	127.0.0.1:54158 connected
+09.01.2022 21:41:50:	127.0.0.1:54158 logged in with login: 409165
+09.01.2022 21:41:50:	Waiting for the players
+09.01.2022 21:41:51:	Game starts. Word: wynajdowałyby	Players: 409165	GameID: 202
+09.01.2022 21:41:56:	409165 (game 202) has been disconnected, because of 'ConnectionError'
+09.01.2022 21:41:56:	Game 202 has been finished
+09.01.2022 21:43:49:	Server is running on 127.0.0.1:130
+09.01.2022 21:43:49:	Waiting for the players
+09.01.2022 21:43:52:	127.0.0.1:54181 connected
+09.01.2022 21:43:55:	127.0.0.1:54181 logged in with login: 409165
+09.01.2022 21:53:16:	Server is running on 127.0.0.1:130
+09.01.2022 21:53:16:	Waiting for the players
+09.01.2022 21:53:32:	127.0.0.1:62854 connected
+09.01.2022 21:53:36:	127.0.0.1:62854 logged in with login: 409165
+09.01.2022 21:53:53:	Server is running on 127.0.0.1:130
+09.01.2022 21:53:53:	Waiting for the players
+09.01.2022 21:53:54:	127.0.0.1:62860 connected
+09.01.2022 21:54:06:	127.0.0.1:62860 logged in with login: 409165
+09.01.2022 21:54:16:	Waiting for the players
+09.01.2022 21:54:17:	Game starts. Word: nieutaneczniana	Players: 409165	GameID: 203
+09.01.2022 21:54:27:	409165 (game 203) has been disconnected, because of 'GuessTimedOut'
+09.01.2022 21:54:27:	Game 203 has been finished
+09.01.2022 21:54:41:	Server is running on 127.0.0.1:130
+09.01.2022 21:54:41:	Waiting for the players
+09.01.2022 21:54:45:	127.0.0.1:62884 connected
+09.01.2022 21:54:46:	127.0.0.1:62885 connected
+09.01.2022 21:54:50:	127.0.0.1:62885 logged in with login: 409165
+09.01.2022 21:54:52:	127.0.0.1:62884 logged in with login: 409166
+09.01.2022 21:54:52:	Waiting for the players
+09.01.2022 21:54:52:	Game starts. Word: nieskładnego	Players: 409166, 409165	GameID: 204
+09.01.2022 21:54:59:	409166 (game 204) has been disconnected, because of 'ConnectionError'
+09.01.2022 21:54:59:	409165 (game 204) has been disconnected, because of 'ConnectionError'
+09.01.2022 21:54:59:	Game 204 has been finished
+09.01.2022 21:55:17:	127.0.0.1:62887 connected
+09.01.2022 21:55:26:	127.0.0.1:62887 logged in with login: 409165
+09.01.2022 21:55:36:	Waiting for the players
+09.01.2022 21:55:37:	Game starts. Word: reinfekcyjnym	Players: 409165	GameID: 205
+09.01.2022 21:55:47:	409165 (game 205) has been disconnected, because of 'GuessTimedOut'
+09.01.2022 21:55:47:	Game 205 has been finished
+10.01.2022 18:38:39:	Server is running on 127.0.0.1:130
+10.01.2022 18:38:39:	Waiting for the players
+10.01.2022 18:39:07:	Server is running on 127.0.0.1:130
+10.01.2022 18:39:07:	Waiting for the players
+10.01.2022 18:39:21:	127.0.0.1:53283 connected
+10.01.2022 18:39:21:	127.0.0.1:53284 connected
+10.01.2022 18:39:22:	127.0.0.1:53283 logged in with login: 409165
+10.01.2022 18:39:22:	127.0.0.1:53284 logged in with login: 409166
+10.01.2022 18:39:32:	Server is running on 127.0.0.1:130
+10.01.2022 18:39:32:	Waiting for the players
+10.01.2022 18:39:41:	127.0.0.1:53288 connected
+10.01.2022 18:39:41:	127.0.0.1:53289 connected
+10.01.2022 18:39:41:	127.0.0.1:53290 connected
+10.01.2022 18:39:42:	127.0.0.1:53289 logged in with login: 409166
+10.01.2022 18:39:42:	127.0.0.1:53291 connected
+10.01.2022 18:39:42:	127.0.0.1:53288 logged in with login: 409165
+10.01.2022 18:39:42:	127.0.0.1:53292 connected
+10.01.2022 18:39:42:	127.0.0.1:53290 logged in with login: 409167
+10.01.2022 18:39:42:	127.0.0.1:53293 connected
+10.01.2022 18:39:42:	127.0.0.1:53291 logged in with login: 409168
+10.01.2022 18:39:42:	127.0.0.1:53292 logged in with login: 409169
+10.01.2022 18:39:42:	127.0.0.1:53294 connected
+10.01.2022 18:39:42:	127.0.0.1:53293 logged in with login: 409170
+10.01.2022 18:39:42:	127.0.0.1:53295 connected
+10.01.2022 18:39:42:	127.0.0.1:53294 logged in with login: 409171
+10.01.2022 18:39:42:	127.0.0.1:53296 connected
+10.01.2022 18:39:42:	127.0.0.1:53295 logged in with login: 409172
+10.01.2022 18:39:42:	127.0.0.1:53297 connected
+10.01.2022 18:39:42:	127.0.0.1:53296 logged in with login: 409173
+10.01.2022 18:39:42:	127.0.0.1:53297 logged in with login: 409174
+10.01.2022 18:39:42:	Waiting for the players
+10.01.2022 18:39:44:	Game starts. Word: papierowy	Players: 409165, 409166, 409167, 409168, 409169, 409170, 409171, 409172, 409173, 409174	GameID: 206
+10.01.2022 18:39:48:	409171 (game 206) has been disconnected, because of 'WonGame'
+10.01.2022 18:39:48:	409174 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:48:	409172 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:48:	409165 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:48:	409168 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:49:	409166 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:49:	409167 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:49:	409169 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:49:	409173 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:49:	409170 (game 206) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:39:49:	Game 206 has been finished
+10.01.2022 18:42:43:	Server is running on 127.0.0.1:130
+10.01.2022 18:42:43:	Waiting for the players
+10.01.2022 18:42:48:	127.0.0.1:64498 connected
+10.01.2022 18:42:48:	127.0.0.1:64499 connected
+10.01.2022 18:42:48:	127.0.0.1:64500 connected
+10.01.2022 18:42:49:	127.0.0.1:64498 logged in with login: 409165
+10.01.2022 18:42:49:	127.0.0.1:64501 connected
+10.01.2022 18:42:49:	127.0.0.1:64499 logged in with login: 409166
+10.01.2022 18:42:49:	127.0.0.1:64502 connected
+10.01.2022 18:42:49:	127.0.0.1:64500 logged in with login: 409167
+10.01.2022 18:42:49:	127.0.0.1:64503 connected
+10.01.2022 18:42:49:	127.0.0.1:64501 logged in with login: 409168
+10.01.2022 18:42:49:	127.0.0.1:64502 logged in with login: 409169
+10.01.2022 18:42:49:	127.0.0.1:64504 connected
+10.01.2022 18:42:49:	127.0.0.1:64503 logged in with login: 409170
+10.01.2022 18:42:49:	127.0.0.1:64505 connected
+10.01.2022 18:42:49:	127.0.0.1:64504 logged in with login: 409171
+10.01.2022 18:42:49:	127.0.0.1:64506 connected
+10.01.2022 18:42:49:	127.0.0.1:64505 logged in with login: 409172
+10.01.2022 18:42:49:	127.0.0.1:64507 connected
+10.01.2022 18:42:49:	127.0.0.1:64506 logged in with login: 409173
+10.01.2022 18:42:49:	127.0.0.1:64507 logged in with login: 409174
+10.01.2022 18:42:49:	Waiting for the players
+10.01.2022 18:42:49:	Game starts. Word: niepankowe	Players: 409165, 409166, 409167, 409168, 409169, 409170, 409171, 409172, 409173, 409174	GameID: 207
+10.01.2022 18:42:51:	409165 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:51:	409168 (game 207) has been disconnected, because of 'WonGame'
+10.01.2022 18:42:51:	409174 (game 207) has been disconnected, because of 'WonGame'
+10.01.2022 18:42:52:	409172 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	409173 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	409171 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	409167 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	409166 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	409169 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	409170 (game 207) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:42:52:	Game 207 has been finished
+10.01.2022 18:44:28:	127.0.0.1:64551 connected
+10.01.2022 18:44:28:	127.0.0.1:64552 connected
+10.01.2022 18:44:28:	127.0.0.1:64551 logged in with login: 409165
+10.01.2022 18:44:28:	127.0.0.1:64553 connected
+10.01.2022 18:44:28:	127.0.0.1:64552 logged in with login: 409166
+10.01.2022 18:44:28:	127.0.0.1:64554 connected
+10.01.2022 18:44:28:	127.0.0.1:64553 logged in with login: 409167
+10.01.2022 18:44:28:	127.0.0.1:64554 logged in with login: 409168
+10.01.2022 18:44:28:	127.0.0.1:64555 connected
+10.01.2022 18:44:28:	127.0.0.1:64555 logged in with login: 409169
+10.01.2022 18:44:28:	127.0.0.1:64556 connected
+10.01.2022 18:44:28:	127.0.0.1:64556 logged in with login: 409170
+10.01.2022 18:44:28:	127.0.0.1:64557 connected
+10.01.2022 18:44:28:	127.0.0.1:64557 logged in with login: 409171
+10.01.2022 18:44:28:	127.0.0.1:64558 connected
+10.01.2022 18:44:28:	127.0.0.1:64558 logged in with login: 409172
+10.01.2022 18:44:28:	127.0.0.1:64559 connected
+10.01.2022 18:44:28:	127.0.0.1:64559 logged in with login: 409173
+10.01.2022 18:44:28:	127.0.0.1:64560 connected
+10.01.2022 18:44:28:	127.0.0.1:64560 logged in with login: 409174
+10.01.2022 18:44:28:	Waiting for the players
+10.01.2022 18:44:28:	Game starts. Word: chrzciły	Players: 409174, 409167, 409168, 409173, 409166, 409165, 409169, 409171, 409170, 409172	GameID: 208
+10.01.2022 18:44:30:	409169 (game 208) has been disconnected, because of 'WonGame'
+10.01.2022 18:44:30:	409167 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:30:	409172 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:30:	409171 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:30:	409166 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:30:	409168 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:30:	409174 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:31:	409173 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:31:	409170 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:31:	409165 (game 208) has been disconnected, because of 'WordGuessed'
+10.01.2022 18:44:31:	Game 208 has been finished
+10.01.2022 19:17:33:	Server is running on 127.0.0.1:130
+10.01.2022 19:17:33:	Waiting for the players
+10.01.2022 19:17:37:	127.0.0.1:60132 connected
+10.01.2022 19:17:37:	127.0.0.1:60133 connected
+10.01.2022 19:17:37:	127.0.0.1:60134 connected
+10.01.2022 19:17:38:	127.0.0.1:60133 logged in with login: 409166
+10.01.2022 19:17:38:	127.0.0.1:60135 connected
+10.01.2022 19:17:38:	127.0.0.1:60132 logged in with login: 409165
+10.01.2022 19:17:38:	127.0.0.1:60136 connected
+10.01.2022 19:17:38:	127.0.0.1:60134 logged in with login: 409167
+10.01.2022 19:17:38:	Waiting for the players
+10.01.2022 19:17:38:	127.0.0.1:60137 connected
+10.01.2022 19:17:38:	127.0.0.1:60135 logged in with login: 409168
+10.01.2022 19:17:38:	127.0.0.1:60136 logged in with login: 409169
+10.01.2022 19:17:38:	127.0.0.1:60138 connected
+10.01.2022 19:17:38:	Waiting for the players
+10.01.2022 19:17:38:	127.0.0.1:60139 connected
+10.01.2022 19:17:38:	127.0.0.1:60138 logged in with login: 409171
+10.01.2022 19:17:38:	127.0.0.1:60137 logged in with login: 409170
+10.01.2022 19:17:38:	127.0.0.1:60140 connected
+10.01.2022 19:17:38:	Waiting for the players
+10.01.2022 19:17:38:	127.0.0.1:60141 connected
+10.01.2022 19:17:38:	127.0.0.1:60139 logged in with login: 409172
+10.01.2022 19:17:38:	127.0.0.1:60140 logged in with login: 409173
+10.01.2022 19:17:38:	Waiting for the players
+10.01.2022 19:17:38:	127.0.0.1:60141 logged in with login: 409174
+10.01.2022 19:17:38:	Waiting for the players
+10.01.2022 19:17:38:	Game starts. Word: smutasie	Players: 409165, 409166	GameID: 209
+10.01.2022 19:17:38:	409166 (game 209) has been disconnected, because of 'ConnectionError'
+10.01.2022 19:18:00:	Server is running on 127.0.0.1:130
+10.01.2022 19:18:00:	Waiting for the players
+10.01.2022 19:18:06:	127.0.0.1:60146 connected
+10.01.2022 19:18:06:	127.0.0.1:60147 connected
+10.01.2022 19:18:06:	127.0.0.1:60148 connected
+10.01.2022 19:18:07:	127.0.0.1:60146 logged in with login: 409165
+10.01.2022 19:18:07:	127.0.0.1:60149 connected
+10.01.2022 19:18:07:	127.0.0.1:60147 logged in with login: 409166
+10.01.2022 19:18:07:	127.0.0.1:60150 connected
+10.01.2022 19:18:07:	127.0.0.1:60148 logged in with login: 409167
+10.01.2022 19:18:07:	Waiting for the players
+10.01.2022 19:18:07:	127.0.0.1:60151 connected
+10.01.2022 19:18:07:	127.0.0.1:60149 logged in with login: 409168
+10.01.2022 19:18:07:	127.0.0.1:60152 connected
+10.01.2022 19:18:07:	127.0.0.1:60150 logged in with login: 409169
+10.01.2022 19:18:07:	Waiting for the players
+10.01.2022 19:18:07:	127.0.0.1:60153 connected
+10.01.2022 19:18:07:	127.0.0.1:60152 logged in with login: 409171
+10.01.2022 19:18:07:	127.0.0.1:60151 logged in with login: 409170
+10.01.2022 19:18:07:	127.0.0.1:60154 connected
+10.01.2022 19:18:07:	Waiting for the players
+10.01.2022 19:18:07:	127.0.0.1:60155 connected
+10.01.2022 19:18:07:	127.0.0.1:60154 logged in with login: 409173
+10.01.2022 19:18:07:	127.0.0.1:60153 logged in with login: 409172
+10.01.2022 19:18:07:	Waiting for the players
+10.01.2022 19:18:07:	127.0.0.1:60155 logged in with login: 409174
+10.01.2022 19:18:07:	Waiting for the players
+10.01.2022 19:18:08:	Game starts. Word: wychyleniach	Players: 409169, 409171	GameID: 216
+10.01.2022 19:18:08:	Game starts. Word: gettom	Players: 409167, 409168	GameID: 215
+10.01.2022 19:18:08:	409169 (game 216) has been disconnected, because of 'ConnectionError'
+10.01.2022 19:18:08:	Game starts. Word: inspekcjo	Players: 409165, 409166	GameID: 214
+10.01.2022 19:18:08:	409167 (game 215) has been disconnected, because of 'ConnectionError'
+10.01.2022 19:18:08:	409165 (game 214) has been disconnected, because of 'ConnectionError'
+10.01.2022 19:18:08:	Game starts. Word: wydaliliście	Players: 409172, 409174	GameID: 218
+10.01.2022 19:18:08:	409172 (game 218) has been disconnected, because of 'ConnectionError'
+10.01.2022 19:18:08:	Game starts. Word: pejzażową	Players: 409170, 409173	GameID: 217
+10.01.2022 19:18:08:	409170 (game 217) has been disconnected, because of 'ConnectionError'
+10.01.2022 19:19:35:	Server is running on 127.0.0.1:130
+10.01.2022 19:19:35:	Waiting for the players
+10.01.2022 19:20:23:	127.0.0.1:60178 connected
+10.01.2022 19:20:23:	127.0.0.1:60179 connected
+10.01.2022 19:20:23:	127.0.0.1:60180 connected
+10.01.2022 19:20:24:	127.0.0.1:60178 logged in with login: 409165
+10.01.2022 19:20:24:	127.0.0.1:60181 connected
+10.01.2022 19:20:24:	127.0.0.1:60179 logged in with login: 409166
+10.01.2022 19:20:24:	127.0.0.1:60182 connected
+10.01.2022 19:20:24:	127.0.0.1:60180 logged in with login: 409167
+10.01.2022 19:20:24:	Waiting for the players
+10.01.2022 19:20:24:	127.0.0.1:60183 connected
+10.01.2022 19:20:24:	127.0.0.1:60181 logged in with login: 409168
+10.01.2022 19:20:24:	127.0.0.1:60184 connected
+10.01.2022 19:20:24:	127.0.0.1:60182 logged in with login: 409169
+10.01.2022 19:20:24:	Waiting for the players
+10.01.2022 19:20:24:	127.0.0.1:60185 connected
+10.01.2022 19:20:24:	127.0.0.1:60184 logged in with login: 409171
+10.01.2022 19:20:24:	127.0.0.1:60183 logged in with login: 409170
+10.01.2022 19:20:24:	127.0.0.1:60186 connected
+10.01.2022 19:20:24:	Waiting for the players
+10.01.2022 19:20:24:	127.0.0.1:60187 connected
+10.01.2022 19:20:24:	127.0.0.1:60186 logged in with login: 409173
+10.01.2022 19:20:24:	127.0.0.1:60185 logged in with login: 409172
+10.01.2022 19:20:24:	Waiting for the players
+10.01.2022 19:20:24:	127.0.0.1:60187 logged in with login: 409174
+10.01.2022 19:20:24:	Waiting for the players
+10.01.2022 19:20:24:	Game starts. Word: zadrażniała	Players: 409167, 409168	GameID: 220
+10.01.2022 19:20:24:	Game starts. Word: lenniczym	Players: 409169, 409171	GameID: 221
+10.01.2022 19:21:14:	Server is running on 127.0.0.1:130
+10.01.2022 19:21:14:	Waiting for the players
+10.01.2022 19:21:19:	127.0.0.1:60191 connected
+10.01.2022 19:21:19:	127.0.0.1:60192 connected
+10.01.2022 19:21:19:	127.0.0.1:60193 connected
+10.01.2022 19:21:19:	127.0.0.1:60194 connected
+10.01.2022 19:21:20:	127.0.0.1:60192 logged in with login: 409166
+10.01.2022 19:21:20:	127.0.0.1:60195 connected
+10.01.2022 19:21:20:	127.0.0.1:60191 logged in with login: 409165
+10.01.2022 19:21:20:	127.0.0.1:60196 connected
+10.01.2022 19:21:20:	127.0.0.1:60194 logged in with login: 409168
+10.01.2022 19:21:20:	127.0.0.1:60197 connected
+10.01.2022 19:21:20:	Waiting for the players
+10.01.2022 19:21:20:	127.0.0.1:60193 logged in with login: 409167
+10.01.2022 19:21:20:	127.0.0.1:60198 connected
+10.01.2022 19:21:20:	127.0.0.1:60197 logged in with login: 409171
+10.01.2022 19:21:20:	Waiting for the players
+10.01.2022 19:21:20:	127.0.0.1:60199 connected
+10.01.2022 19:21:20:	127.0.0.1:60195 logged in with login: 409169
+10.01.2022 19:21:20:	127.0.0.1:60198 logged in with login: 409172
+10.01.2022 19:21:20:	127.0.0.1:60200 connected
+10.01.2022 19:21:20:	127.0.0.1:60196 logged in with login: 409170
+10.01.2022 19:21:20:	Waiting for the players
+10.01.2022 19:21:20:	Waiting for the players
+10.01.2022 19:21:20:	127.0.0.1:60200 logged in with login: 409174
+10.01.2022 19:21:20:	127.0.0.1:60199 logged in with login: 409173
+10.01.2022 19:21:20:	Waiting for the players
+10.01.2022 19:21:20:	Game starts. Word: odczekującej	Players: 409174, 409173	GameID: 228
+10.01.2022 19:21:20:	Game starts. Word: domknąłby	Players: 409167, 409168	GameID: 225
+10.01.2022 19:21:21:	Game starts. Word: nowopiekucianin	Players: 409171, 409172	GameID: 226
+10.01.2022 19:21:21:	Game starts. Word: teleskryptorem	Players: 409169, 409170	GameID: 227
+10.01.2022 19:21:21:	Game starts. Word: skakaliby	Players: 409165, 409166	GameID: 224
+10.01.2022 19:21:32:	409168 (game 225) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:32:	409174 (game 228) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:32:	409171 (game 226) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:33:	409169 (game 227) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:33:	409166 (game 224) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:42:	409167 (game 225) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:42:	Game 225 has been finished
+10.01.2022 19:21:42:	409173 (game 228) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:42:	Game 228 has been finished
+10.01.2022 19:21:43:	409172 (game 226) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:43:	Game 226 has been finished
+10.01.2022 19:21:43:	409170 (game 227) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:43:	Game 227 has been finished
+10.01.2022 19:21:43:	409165 (game 224) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:21:43:	Game 224 has been finished
+10.01.2022 19:22:53:	Server is running on 127.0.0.1:130
+10.01.2022 19:22:53:	Waiting for the players
+10.01.2022 19:22:59:	127.0.0.1:60227 connected
+10.01.2022 19:22:59:	127.0.0.1:60228 connected
+10.01.2022 19:22:59:	127.0.0.1:60229 connected
+10.01.2022 19:23:00:	127.0.0.1:60227 logged in with login: 409165
+10.01.2022 19:23:00:	127.0.0.1:60230 connected
+10.01.2022 19:23:00:	127.0.0.1:60228 logged in with login: 409166
+10.01.2022 19:23:00:	127.0.0.1:60231 connected
+10.01.2022 19:23:00:	127.0.0.1:60229 logged in with login: 409167
+10.01.2022 19:23:00:	127.0.0.1:60232 connected
+10.01.2022 19:23:00:	127.0.0.1:60230 logged in with login: 409168
+10.01.2022 19:23:00:	127.0.0.1:60233 connected
+10.01.2022 19:23:00:	127.0.0.1:60231 logged in with login: 409169
+10.01.2022 19:23:00:	127.0.0.1:60232 logged in with login: 409170
+10.01.2022 19:23:00:	127.0.0.1:60234 connected
+10.01.2022 19:23:00:	127.0.0.1:60233 logged in with login: 409171
+10.01.2022 19:23:00:	127.0.0.1:60235 connected
+10.01.2022 19:23:00:	127.0.0.1:60234 logged in with login: 409172
+10.01.2022 19:23:00:	127.0.0.1:60236 connected
+10.01.2022 19:23:00:	127.0.0.1:60235 logged in with login: 409173
+10.01.2022 19:23:00:	127.0.0.1:60236 logged in with login: 409174
+10.01.2022 19:23:00:	Waiting for the players
+10.01.2022 19:23:00:	Game starts. Word: niepasterscy	Players: 409165, 409166, 409167, 409168, 409169, 409170, 409171, 409172, 409173, 409174	GameID: 229
+10.01.2022 19:23:17:	409165 (game 229) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:23:27:	409167 (game 229) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:23:37:	409166 (game 229) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:23:37:	409168 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	409169 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	409170 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	409171 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	409172 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	409173 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	409174 (game 229) has been disconnected, because of 'LostGame'
+10.01.2022 19:23:37:	Game 229 has been finished
+10.01.2022 19:23:59:	Server is running on 127.0.0.1:130
+10.01.2022 19:23:59:	Waiting for the players
+10.01.2022 19:24:16:	127.0.0.1:60256 connected
+10.01.2022 19:24:17:	127.0.0.1:60256 logged in with login: 409165
+10.01.2022 19:24:17:	Waiting for the players
+10.01.2022 19:24:17:	Game starts. Word: paprzących	Players: 409165	GameID: 230
+10.01.2022 19:24:28:	409165 (game 230) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 19:24:28:	Game 230 has been finished
+10.01.2022 19:24:55:	127.0.0.1:60267 connected
+10.01.2022 19:24:55:	127.0.0.1:60267 logged in with login: 409165
+10.01.2022 19:24:55:	Waiting for the players
+10.01.2022 19:24:55:	Game starts. Word: kożuszejącej	Players: 409165	GameID: 231
+10.01.2022 19:25:05:	Server is running on 127.0.0.1:130
+10.01.2022 19:25:05:	Waiting for the players
+10.01.2022 19:25:10:	127.0.0.1:60268 connected
+10.01.2022 19:25:11:	127.0.0.1:60268 logged in with login: 409165
+10.01.2022 19:25:11:	Waiting for the players
+10.01.2022 19:25:11:	Game starts. Word: rewersyjnych	Players: 409165	GameID: 232
+10.01.2022 20:26:07:	Server is running on 127.0.0.1:130
+10.01.2022 20:26:07:	Waiting for the players
+10.01.2022 20:26:14:	127.0.0.1:52320 connected
+10.01.2022 20:26:14:	127.0.0.1:52320 logged in with login: 409165
+10.01.2022 20:26:14:	Waiting for the players
+10.01.2022 20:26:15:	Game starts. Word: ninjom	Players: 409165	GameID: 233
+10.01.2022 20:26:17:	409165 (game 233) has been disconnected, because of 'LostGame'
+10.01.2022 20:26:17:	Game 233 has been finished
+10.01.2022 20:26:50:	127.0.0.1:52341 connected
+10.01.2022 20:26:50:	127.0.0.1:52341 logged in with login: 409165
+10.01.2022 20:26:50:	Waiting for the players
+10.01.2022 20:26:50:	Game starts. Word: niezaczłapaniu	Players: 409165	GameID: 234
+10.01.2022 20:27:11:	409165 (game 234) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 20:27:11:	Game 234 has been finished
+10.01.2022 20:28:14:	Server is running on 127.0.0.1:130
+10.01.2022 20:28:14:	Waiting for the players
+10.01.2022 20:28:18:	127.0.0.1:52359 connected
+10.01.2022 20:28:19:	127.0.0.1:52359 logged in with login: 409165
+10.01.2022 20:28:19:	Waiting for the players
+10.01.2022 20:28:19:	Game starts. Word: wytresowałam	Players: 409165	GameID: 235
+10.01.2022 20:28:31:	409165 (game 235) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 20:28:31:	Game 235 has been finished
+10.01.2022 20:28:58:	Server is running on 127.0.0.1:130
+10.01.2022 20:28:58:	Waiting for the players
+10.01.2022 20:29:03:	127.0.0.1:52365 connected
+10.01.2022 20:29:04:	127.0.0.1:52365 logged in with login: 409165
+10.01.2022 20:29:04:	Waiting for the players
+10.01.2022 20:29:04:	Game starts. Word: sparingować	Players: 409165	GameID: 236
+10.01.2022 20:29:15:	409165 (game 236) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 20:29:16:	Game 236 has been finished
+10.01.2022 20:29:24:	Server is running on 127.0.0.1:130
+10.01.2022 20:29:24:	Waiting for the players
+10.01.2022 20:29:28:	127.0.0.1:52366 connected
+10.01.2022 20:29:29:	127.0.0.1:52366 logged in with login: 409165
+10.01.2022 20:29:29:	Waiting for the players
+10.01.2022 20:29:29:	Game starts. Word: dotyczącemu	Players: 409165	GameID: 237
+10.01.2022 20:29:30:	409165 (game 237) has been disconnected, because of 'ConnectionError'
+10.01.2022 20:29:30:	Game 237 has been finished
+10.01.2022 20:30:03:	Server is running on 127.0.0.1:130
+10.01.2022 20:30:03:	Waiting for the players
+10.01.2022 20:30:06:	127.0.0.1:52371 connected
+10.01.2022 20:30:10:	127.0.0.1:52371 has been disconnected, because of 'BadAuth'
+10.01.2022 20:30:14:	127.0.0.1:52373 connected
+10.01.2022 20:30:15:	127.0.0.1:52373 logged in with login: 409165
+10.01.2022 20:30:15:	Waiting for the players
+10.01.2022 20:30:15:	Game starts. Word: niedokrzyczenia	Players: 409165	GameID: 238
+10.01.2022 20:30:21:	409165 (game 238) has been disconnected, because of 'ConnectionError'
+10.01.2022 20:30:21:	Game 238 has been finished
+10.01.2022 20:30:26:	127.0.0.1:52374 connected
+10.01.2022 20:30:27:	127.0.0.1:52374 logged in with login: 409165
+10.01.2022 20:30:27:	Waiting for the players
+10.01.2022 20:30:27:	Game starts. Word: nieerudytywną	Players: 409165	GameID: 239
+10.01.2022 20:30:46:	409165 (game 239) has been disconnected, because of 'ConnectionError'
+10.01.2022 20:30:46:	Game 239 has been finished
+10.01.2022 20:30:57:	127.0.0.1:52379 connected
+10.01.2022 20:30:59:	127.0.0.1:52379 logged in with login: 409165
+10.01.2022 20:30:59:	Waiting for the players
+10.01.2022 20:30:59:	Game starts. Word: niecofające	Players: 409165	GameID: 240
+10.01.2022 20:31:10:	409165 (game 240) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 20:31:11:	Game 240 has been finished
+10.01.2022 20:34:50:	Server is running on 127.0.0.1:130
+10.01.2022 20:34:50:	Waiting for the players
+10.01.2022 20:34:53:	127.0.0.1:52398 connected
+10.01.2022 20:34:57:	127.0.0.1:52398 logged in with login: 409165
+10.01.2022 20:34:57:	Waiting for the players
+10.01.2022 20:34:57:	Game starts. Word: wymódlcie	Players: 409165	GameID: 241
+10.01.2022 20:35:09:	409165 (game 241) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 20:35:09:	Game 241 has been finished
+10.01.2022 20:35:29:	Server is running on 127.0.0.1:130
+10.01.2022 20:35:29:	Waiting for the players
+10.01.2022 20:35:33:	127.0.0.1:52405 connected
+10.01.2022 20:35:36:	127.0.0.1:52405 logged in with login: 409165
+10.01.2022 20:35:36:	Waiting for the players
+10.01.2022 20:35:36:	Game starts. Word: kompostujemy	Players: 409165	GameID: 242
+10.01.2022 20:36:08:	Server is running on 127.0.0.1:130
+10.01.2022 20:36:08:	Waiting for the players
+10.01.2022 20:36:11:	127.0.0.1:52407 connected
+10.01.2022 20:36:13:	127.0.0.1:52407 logged in with login: 409165
+10.01.2022 20:36:13:	Waiting for the players
+10.01.2022 20:36:13:	Game starts. Word: spasuj	Players: 409165	GameID: 243
+10.01.2022 20:36:25:	409165 (game 243) has been disconnected, because of 'GuessTimedOut'
+10.01.2022 20:36:25:	Game 243 has been finished
+10.01.2022 20:58:52:	Server is running on 127.0.0.1:130
+10.01.2022 20:58:52:	Waiting for the players
+10.01.2022 20:58:55:	127.0.0.1:63996 connected
+10.01.2022 20:58:58:	127.0.0.1:63996 logged in with login: 409165
+10.01.2022 20:58:58:	Waiting for the players
+10.01.2022 20:58:58:	Game starts. Word: podwiązywali	Players: 409165	GameID: 244
+10.01.2022 20:58:59:	409165 (game 244) has been disconnected, because of 'WonGame'
+10.01.2022 20:58:59:	Game 244 has been finished
+10.01.2022 20:59:04:	127.0.0.1:63999 connected
+10.01.2022 20:59:05:	127.0.0.1:63999 logged in with login: 409165
+10.01.2022 20:59:05:	Waiting for the players
+10.01.2022 20:59:05:	Game starts. Word: prozopagnostycy	Players: 409165	GameID: 245
+10.01.2022 20:59:07:	409165 (game 245) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:07:	Game 245 has been finished
+10.01.2022 20:59:12:	127.0.0.1:64001 connected
+10.01.2022 20:59:14:	127.0.0.1:64001 logged in with login: 409165
+10.01.2022 20:59:14:	Waiting for the players
+10.01.2022 20:59:14:	Game starts. Word: drużynowej	Players: 409165	GameID: 246
+10.01.2022 20:59:16:	409165 (game 246) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:16:	Game 246 has been finished
+10.01.2022 20:59:36:	127.0.0.1:64004 connected
+10.01.2022 20:59:36:	127.0.0.1:64004 logged in with login: 409165
+10.01.2022 20:59:36:	127.0.0.1:64005 connected
+10.01.2022 20:59:36:	Waiting for the players
+10.01.2022 20:59:36:	127.0.0.1:64005 logged in with login: 409166
+10.01.2022 20:59:36:	127.0.0.1:64006 connected
+10.01.2022 20:59:36:	Waiting for the players
+10.01.2022 20:59:36:	127.0.0.1:64007 connected
+10.01.2022 20:59:36:	127.0.0.1:64006 logged in with login: 409167
+10.01.2022 20:59:36:	127.0.0.1:64008 connected
+10.01.2022 20:59:36:	Waiting for the players
+10.01.2022 20:59:36:	127.0.0.1:64009 connected
+10.01.2022 20:59:37:	127.0.0.1:64007 logged in with login: 409168
+10.01.2022 20:59:37:	127.0.0.1:64008 logged in with login: 409169
+10.01.2022 20:59:37:	127.0.0.1:64010 connected
+10.01.2022 20:59:37:	Waiting for the players
+10.01.2022 20:59:37:	127.0.0.1:64011 connected
+10.01.2022 20:59:37:	Waiting for the players
+10.01.2022 20:59:37:	127.0.0.1:64012 connected
+10.01.2022 20:59:37:	127.0.0.1:64010 logged in with login: 409171
+10.01.2022 20:59:37:	127.0.0.1:64011 logged in with login: 409172
+10.01.2022 20:59:37:	Game starts. Word: powymywanej	Players: 409167	GameID: 249
+10.01.2022 20:59:37:	Game starts. Word: pinyinie	Players: 409166	GameID: 248
+10.01.2022 20:59:37:	127.0.0.1:64009 logged in with login: 409170
+10.01.2022 20:59:37:	127.0.0.1:64013 connected
+10.01.2022 20:59:37:	Waiting for the players
+10.01.2022 20:59:37:	Waiting for the players
+10.01.2022 20:59:37:	Game starts. Word: rozpatrzałoby	Players: 409169	GameID: 251
+10.01.2022 20:59:37:	Waiting for the players
+10.01.2022 20:59:37:	Game starts. Word: wywłócz	Players: 409165	GameID: 247
+10.01.2022 20:59:37:	Game starts. Word: zżuwanej	Players: 409168	GameID: 250
+10.01.2022 20:59:37:	127.0.0.1:64013 logged in with login: 409174
+10.01.2022 20:59:37:	127.0.0.1:64012 logged in with login: 409173
+10.01.2022 20:59:38:	Waiting for the players
+10.01.2022 20:59:38:	Waiting for the players
+10.01.2022 20:59:38:	Game starts. Word: okrętowałbyś	Players: 409170	GameID: 253
+10.01.2022 20:59:38:	Game starts. Word: uczciwsze	Players: 409173	GameID: 256
+10.01.2022 20:59:38:	Game starts. Word: niezżymnięciach	Players: 409171	GameID: 254
+10.01.2022 20:59:38:	Game starts. Word: pożarłbym	Players: 409174	GameID: 255
+10.01.2022 20:59:38:	Game starts. Word: rozjuczyłyby	Players: 409172	GameID: 252
+10.01.2022 20:59:38:	409166 (game 248) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:38:	Game 248 has been finished
+10.01.2022 20:59:38:	409169 (game 251) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:38:	Game 251 has been finished
+10.01.2022 20:59:39:	409167 (game 249) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:39:	Game 249 has been finished
+10.01.2022 20:59:39:	409165 (game 247) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:39:	Game 247 has been finished
+10.01.2022 20:59:39:	409168 (game 250) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:39:	Game 250 has been finished
+10.01.2022 20:59:39:	409171 (game 254) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:39:	Game 254 has been finished
+10.01.2022 20:59:39:	409170 (game 253) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:39:	Game 253 has been finished
+10.01.2022 20:59:40:	409173 (game 256) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:40:	Game 256 has been finished
+10.01.2022 20:59:40:	409172 (game 252) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:40:	Game 252 has been finished
+10.01.2022 20:59:40:	409174 (game 255) has been disconnected, because of 'WonGame'
+10.01.2022 20:59:40:	Game 255 has been finished
+10.01.2022 21:23:14:	Server is running on 127.0.0.1:130
+10.01.2022 21:23:14:	Waiting for the players
+10.01.2022 21:23:20:	127.0.0.1:64580 connected
+10.01.2022 21:23:20:	127.0.0.1:64581 connected
+10.01.2022 21:23:20:	127.0.0.1:64582 connected
+10.01.2022 21:23:20:	127.0.0.1:64583 connected
+10.01.2022 21:23:21:	127.0.0.1:64582 logged in with login: 409167
+10.01.2022 21:23:21:	127.0.0.1:64584 connected
+10.01.2022 21:23:21:	127.0.0.1:64580 logged in with login: 409165
+10.01.2022 21:23:21:	127.0.0.1:64581 logged in with login: 409166
+10.01.2022 21:23:21:	127.0.0.1:64585 connected
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	127.0.0.1:64586 connected
+10.01.2022 21:23:21:	127.0.0.1:64584 logged in with login: 409169
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	127.0.0.1:64587 connected
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	127.0.0.1:64588 connected
+10.01.2022 21:23:21:	127.0.0.1:64583 logged in with login: 409168
+10.01.2022 21:23:21:	127.0.0.1:64586 logged in with login: 409171
+10.01.2022 21:23:21:	127.0.0.1:64587 logged in with login: 409172
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	127.0.0.1:64589 connected
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	Waiting for the players
+10.01.2022 21:23:21:	127.0.0.1:64589 logged in with login: 409174
+10.01.2022 21:23:21:	127.0.0.1:64585 logged in with login: 409170
+10.01.2022 21:23:22:	Waiting for the players
+10.01.2022 21:23:22:	Waiting for the players
+10.01.2022 21:23:22:	127.0.0.1:64588 logged in with login: 409173
+10.01.2022 21:23:23:	Waiting for the players
+10.01.2022 21:23:23:	Game starts. Word: ocucę	Players: 409173	GameID: 266
+10.01.2022 21:23:23:	Game starts. Word: pogódźmyż	Players: 409174	GameID: 264
+10.01.2022 21:23:23:	Game starts. Word: zakasowałabyś	Players: 409170	GameID: 265
+10.01.2022 21:23:23:	Game starts. Word: aresztowaniem	Players: 409171	GameID: 261
+10.01.2022 21:23:23:	Game starts. Word: fantującej	Players: 409167	GameID: 257
+10.01.2022 21:23:23:	Game starts. Word: aerostepach	Players: 409168	GameID: 263
+10.01.2022 21:23:23:	Game starts. Word: podkopciłabyś	Players: 409166	GameID: 259
+10.01.2022 21:23:23:	Game starts. Word: kontrabasisto	Players: 409169	GameID: 260
+10.01.2022 21:23:23:	Game starts. Word: dodającą	Players: 409172	GameID: 262
+10.01.2022 21:23:23:	Game starts. Word: naprawię	Players: 409165	GameID: 258
+10.01.2022 21:23:24:	409174 (game 264) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:24:	Game 264 has been finished
+10.01.2022 21:23:25:	409171 (game 261) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:25:	Game 261 has been finished
+10.01.2022 21:23:25:	409168 (game 263) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 263 has been finished
+10.01.2022 21:23:26:	409166 (game 259) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 259 has been finished
+10.01.2022 21:23:26:	409169 (game 260) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 260 has been finished
+10.01.2022 21:23:26:	409167 (game 257) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 257 has been finished
+10.01.2022 21:23:26:	409173 (game 266) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 266 has been finished
+10.01.2022 21:23:26:	409165 (game 258) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 258 has been finished
+10.01.2022 21:23:26:	409172 (game 262) has been disconnected, because of 'WonGame'
+10.01.2022 21:23:26:	Game 262 has been finished
+10.01.2022 21:23:26:	409170 (game 265) has been disconnected, because of 'LostGame'
+10.01.2022 21:23:26:	Game 265 has been finished
+12.01.2022 19:11:34:	Server is running on 127.0.0.1:130
+12.01.2022 19:11:34:	Waiting for the players
+12.01.2022 19:11:53:	Server is running on 127.0.0.1:130
+12.01.2022 19:11:53:	Waiting for the players
+12.01.2022 19:11:57:	127.0.0.1:51542 connected
+12.01.2022 19:11:57:	127.0.0.1:51543 connected
+12.01.2022 19:11:58:	127.0.0.1:51542 logged in with login: 409165
+12.01.2022 19:11:58:	127.0.0.1:51544 connected
+12.01.2022 19:11:58:	127.0.0.1:51543 logged in with login: 409166
+12.01.2022 19:11:58:	127.0.0.1:51545 connected
+12.01.2022 19:11:58:	127.0.0.1:51544 logged in with login: 409167
+12.01.2022 19:11:58:	127.0.0.1:51546 connected
+12.01.2022 19:11:58:	127.0.0.1:51545 logged in with login: 409168
+12.01.2022 19:11:58:	127.0.0.1:51547 connected
+12.01.2022 19:11:58:	127.0.0.1:51546 logged in with login: 409169
+12.01.2022 19:11:58:	127.0.0.1:51548 connected
+12.01.2022 19:11:58:	127.0.0.1:51547 logged in with login: 409170
+12.01.2022 19:11:58:	127.0.0.1:51549 connected
+12.01.2022 19:11:58:	127.0.0.1:51548 logged in with login: 409171
+12.01.2022 19:11:58:	127.0.0.1:51550 connected
+12.01.2022 19:11:58:	127.0.0.1:51549 logged in with login: 409172
+12.01.2022 19:11:58:	127.0.0.1:51551 connected
+12.01.2022 19:11:58:	127.0.0.1:51550 logged in with login: 409173
+12.01.2022 19:11:58:	127.0.0.1:51552 connected
+12.01.2022 19:11:58:	127.0.0.1:51551 logged in with login: 409174
+12.01.2022 19:11:58:	127.0.0.1:51553 connected
+12.01.2022 19:11:58:	127.0.0.1:51554 connected
+12.01.2022 19:11:58:	127.0.0.1:51552 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51555 connected
+12.01.2022 19:11:58:	127.0.0.1:51553 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51556 connected
+12.01.2022 19:11:58:	127.0.0.1:51554 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51557 connected
+12.01.2022 19:11:58:	127.0.0.1:51555 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51558 connected
+12.01.2022 19:11:58:	127.0.0.1:51556 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51559 connected
+12.01.2022 19:11:58:	127.0.0.1:51557 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51558 has been disconnected, because of 'BadAuth'
+12.01.2022 19:11:58:	127.0.0.1:51559 has been disconnected, because of 'BadAuth'
+12.01.2022 19:12:08:	Waiting for the players
+12.01.2022 19:13:07:	Server is running on 127.0.0.1:130
+12.01.2022 19:13:07:	Waiting for the players
+12.01.2022 19:13:10:	127.0.0.1:51581 connected
+12.01.2022 19:13:10:	127.0.0.1:51582 connected
+12.01.2022 19:13:10:	127.0.0.1:51583 connected
+12.01.2022 19:13:11:	127.0.0.1:51581 logged in with login: 409165
+12.01.2022 19:13:11:	127.0.0.1:51584 connected
+12.01.2022 19:13:11:	127.0.0.1:51582 logged in with login: 409166
+12.01.2022 19:13:11:	127.0.0.1:51585 connected
+12.01.2022 19:13:11:	127.0.0.1:51583 logged in with login: 409167
+12.01.2022 19:13:11:	127.0.0.1:51586 connected
+12.01.2022 19:13:11:	127.0.0.1:51584 logged in with login: 409168
+12.01.2022 19:13:11:	127.0.0.1:51585 logged in with login: 409169
+12.01.2022 19:13:11:	127.0.0.1:51587 connected
+12.01.2022 19:13:11:	127.0.0.1:51586 logged in with login: 409170
+12.01.2022 19:13:11:	127.0.0.1:51588 connected
+12.01.2022 19:13:11:	127.0.0.1:51587 logged in with login: 409171
+12.01.2022 19:13:11:	127.0.0.1:51589 connected
+12.01.2022 19:13:11:	127.0.0.1:51588 logged in with login: 409172
+12.01.2022 19:13:11:	127.0.0.1:51590 connected
+12.01.2022 19:13:11:	127.0.0.1:51589 logged in with login: 409173
+12.01.2022 19:13:11:	127.0.0.1:51591 connected
+12.01.2022 19:13:11:	127.0.0.1:51590 logged in with login: 409174
+12.01.2022 19:13:11:	127.0.0.1:51592 connected
+12.01.2022 19:13:11:	127.0.0.1:51591 logged in with login: 409175
+12.01.2022 19:13:11:	127.0.0.1:51593 connected
+12.01.2022 19:13:11:	127.0.0.1:51592 logged in with login: 409176
+12.01.2022 19:13:11:	127.0.0.1:51594 connected
+12.01.2022 19:13:11:	127.0.0.1:51593 logged in with login: 409177
+12.01.2022 19:13:11:	127.0.0.1:51595 connected
+12.01.2022 19:13:11:	127.0.0.1:51594 logged in with login: 409178
+12.01.2022 19:13:11:	127.0.0.1:51596 connected
+12.01.2022 19:13:11:	127.0.0.1:51595 logged in with login: 409179
+12.01.2022 19:13:11:	127.0.0.1:51597 connected
+12.01.2022 19:13:11:	127.0.0.1:51596 logged in with login: 409180
+12.01.2022 19:13:11:	127.0.0.1:51598 connected
+12.01.2022 19:13:11:	127.0.0.1:51597 logged in with login: 409181
+12.01.2022 19:13:11:	127.0.0.1:51598 logged in with login: 409182
+12.01.2022 19:13:11:	Waiting for the players
+12.01.2022 19:13:12:	Game starts. Word: urównaj	Players: 409165, 409166, 409167, 409168, 409169, 409170, 409171, 409172, 409173, 409174, 409175, 409176, 409177, 409178, 409179, 409180, 409181, 409182	GameID: 268
+12.01.2022 19:13:18:	409166 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:18:	409167 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:18:	409169 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:19:	409170 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:19:	409171 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:19:	409172 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:19:	409174 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:19:	409180 (game 268) has been disconnected, because of 'WonGame'
+12.01.2022 19:13:19:	409165 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409168 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409173 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409175 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409176 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409177 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409178 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409179 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409181 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	409182 (game 268) has been disconnected, because of 'WordGuessed'
+12.01.2022 19:13:19:	Game 268 has been finished
+12.01.2022 20:19:08:	Server is running on 127.0.0.1:130
+12.01.2022 20:19:08:	Waiting for the players
+12.01.2022 20:19:09:	127.0.0.1:56797 connected
+12.01.2022 20:19:09:	127.0.0.1:56798 connected
+12.01.2022 20:19:09:	127.0.0.1:56799 connected
+12.01.2022 20:19:09:	127.0.0.1:56800 connected
+12.01.2022 20:19:10:	127.0.0.1:56798 logged in with login: 409166
+12.01.2022 20:19:10:	127.0.0.1:56801 connected
+12.01.2022 20:19:10:	127.0.0.1:56797 has been disconnected, because of 'BadAuth'
+12.01.2022 20:19:10:	127.0.0.1:56799 logged in with login: 409167
+12.01.2022 20:19:10:	127.0.0.1:56802 connected
+12.01.2022 20:19:10:	127.0.0.1:56801 logged in with login: 409169
+12.01.2022 20:19:10:	127.0.0.1:56800 logged in with login: 409168
+12.01.2022 20:19:10:	127.0.0.1:56803 connected
+12.01.2022 20:19:10:	127.0.0.1:56802 logged in with login: 409170
+12.01.2022 20:19:10:	127.0.0.1:56804 connected
+12.01.2022 20:19:10:	127.0.0.1:56803 logged in with login: 409171
+12.01.2022 20:19:10:	127.0.0.1:56805 connected
+12.01.2022 20:19:10:	127.0.0.1:56804 logged in with login: 409172
+12.01.2022 20:19:10:	127.0.0.1:56806 connected
+12.01.2022 20:19:10:	127.0.0.1:56805 logged in with login: 409173
+12.01.2022 20:19:10:	127.0.0.1:56807 connected
+12.01.2022 20:19:10:	127.0.0.1:56806 logged in with login: 409174
+12.01.2022 20:19:10:	127.0.0.1:56808 connected
+12.01.2022 20:19:10:	127.0.0.1:56807 logged in with login: 409175
+12.01.2022 20:19:10:	127.0.0.1:56809 connected
+12.01.2022 20:19:10:	127.0.0.1:56808 logged in with login: 409176
+12.01.2022 20:19:10:	127.0.0.1:56810 connected
+12.01.2022 20:19:10:	127.0.0.1:56809 logged in with login: 409177
+12.01.2022 20:19:10:	127.0.0.1:56811 connected
+12.01.2022 20:19:10:	127.0.0.1:56810 logged in with login: 409178
+12.01.2022 20:19:10:	127.0.0.1:56811 logged in with login: 409179
+12.01.2022 20:19:21:	Waiting for the players
+12.01.2022 20:19:21:	Game starts. Word: swarzędzan	Players: 409168, 409166, 409167, 409169, 409170, 409171, 409172, 409173, 409174, 409175, 409176, 409177, 409178, 409179	GameID: 269
+12.01.2022 20:19:26:	409167 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409169 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409168 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409170 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409171 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409172 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409173 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409174 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409175 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409176 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409177 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409178 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409179 (game 269) has been disconnected, because of 'WonGame'
+12.01.2022 20:19:26:	409166 (game 269) has been disconnected, because of 'WordGuessed'
+12.01.2022 20:19:26:	Game 269 has been finished
